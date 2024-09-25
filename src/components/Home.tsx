@@ -9,10 +9,10 @@ interface HomeProps {
 function Home() {
     return (
     <>
-            <div className="container mb-1">
+            <div className="container mb-1 bg-warning-subtle">
                 <h1>adudaCH</h1>
-                <p className="email">adi15061992@gmail.com</p>
         </div>
+                <p className="email">adi15061992@gmail.com</p>
         </>
     );
 }

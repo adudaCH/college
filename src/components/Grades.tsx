@@ -19,7 +19,7 @@ const Grades: FunctionComponent<GradesProps> = () => {
 
     useEffect(() => {
         console.log("Grade changed to:", grade);
-    }, [grade]); // Add grade as a dependency
+    }, [grade]); 
 
     return (
         <>

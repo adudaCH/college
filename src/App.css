@@ -6,12 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
-h1{
-  background-color: #f3ee00;
-  color: #000;
-}
+
 .email{
-  color: #cd3f3f;
+  color: #973131;
+  font-size: 1.5rem;
 }
 
 .container{
@@ -60,4 +58,14 @@ width: 90px;
 font-size: 1.0rem;
 justify-content: center;
 color: #000;
+}
+
+.Todo{
+  margin-top: 50px;
+}
+
+.bg-dark-subtle{
+  width: 100% !important;
+  height: 19vh !important;
+  text-align: center;
 }
