@@ -8,7 +8,7 @@ const Footer: FunctionComponent<FooterProps> = () => {
     return (
         <>
         <div className="container mt-5"> 
-        <p>Tis site develop by Adi Saady™</p>
+        <p>Tis site develop by Adi Saadya™</p>
         {/* <ul className="link-list">
         <li><a target="_blank" href="mailto:#adi15061992@gmail.com">adi15061992@gmail.com</a></li>
         <li><a target="_blank" href="tel:+972547303119">+972 5473 03119</a></li>
